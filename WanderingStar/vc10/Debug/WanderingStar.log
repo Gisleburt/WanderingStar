@@ -1,0 +1,11 @@
+﻿  WanderingStarApp.cpp
+cinder_d.lib(zutil.obj) : warning LNK4204: 'D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+cinder_d.lib(trees.obj) : warning LNK4204: 'D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+cinder_d.lib(inftrees.obj) : warning LNK4204: 'D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+cinder_d.lib(inflate.obj) : warning LNK4204: 'D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+cinder_d.lib(inffast.obj) : warning LNK4204: 'D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+cinder_d.lib(deflate.obj) : warning LNK4204: 'D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+cinder_d.lib(crc32.obj) : warning LNK4204: 'D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+cinder_d.lib(compress.obj) : warning LNK4204: 'D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+cinder_d.lib(adler32.obj) : warning LNK4204: 'D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  WanderingStar.vcxproj -> D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\WanderingStar.exe

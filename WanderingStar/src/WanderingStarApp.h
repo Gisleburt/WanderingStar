@@ -1,19 +1,27 @@
+/**
+ * Main App Class
+ */
+
+#pragma once
+
 #include "Includes.h"
 
 using namespace ci;
 using namespace ci::app;
 using namespace std;
 
-class WanderingStarApp : public AppBasic {
+namespace ws {
+	class WanderingStarApp : public AppBasic {
 
-	protected:
-		CameraPersp mCam;
+		protected:
+			ws::Camera mCam;
 
-	public:
-		void setup();
-		void mouseDown( MouseEvent event );	
-		void update();
-		void draw();
-};
+		public:
+			void setup();
+			void mouseDown( MouseEvent event );	
+			void update();
+			void draw();
+	};
+}
 
-CINDER_APP_BASIC( WanderingStarApp, RendererGl )
+CINDER_APP_BASIC( ws::WanderingStarApp, RendererGl )

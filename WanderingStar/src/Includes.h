@@ -7,4 +7,5 @@
 #include "cinder/Camera.h"
 
 // App
+#include "Camera.h"
 #include "WanderingStarApp.h"

@@ -104,10 +104,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\src\Camera.cpp" />
     <ClCompile Include="..\src\WanderingStarApp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\Resources.h" />
+    <ClInclude Include="..\src\Camera.h" />
     <ClInclude Include="..\src\Includes.h" />
     <ClInclude Include="..\src\WanderingStarApp.h" />
   </ItemGroup>

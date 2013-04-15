@@ -1,6 +1,0 @@
-﻿  WanderingStarApp.cpp
-  Camera.cpp
-  Generating Code...
-cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
-WanderingStarApp.obj : error LNK2005: _WinMain@16 already defined in Camera.obj
-D:\Documents\Projects\WanderingStar\WanderingStar\vc10\Debug\WanderingStar.exe : fatal error LNK1169: one or more multiply defined symbols found

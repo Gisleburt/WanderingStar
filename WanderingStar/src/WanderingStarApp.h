@@ -14,7 +14,7 @@ namespace ws {
 	class WanderingStarApp : public AppBasic {
 
 		protected:
-			ws::Camera mCam;
+			Camera mCam;
 
 		public:
 			void setup();
@@ -24,4 +24,3 @@ namespace ws {
 	};
 }
 
-CINDER_APP_BASIC( ws::WanderingStarApp, RendererGl )

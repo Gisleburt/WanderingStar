@@ -105,6 +105,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\src\Camera.cpp" />
+    <ClCompile Include="..\src\main.cpp" />
     <ClCompile Include="..\src\WanderingStarApp.cpp" />
   </ItemGroup>
   <ItemGroup>

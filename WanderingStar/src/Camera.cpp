@@ -1,5 +1,5 @@
 /**
- * Main App Class
+ * Camera Class
  */
 
 #pragma once

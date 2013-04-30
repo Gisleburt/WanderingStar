@@ -111,6 +111,7 @@
   <ItemGroup>
     <ClInclude Include="..\include\Resources.h" />
     <ClInclude Include="..\src\Camera.h" />
+    <ClInclude Include="..\src\Entity3D.h" />
     <ClInclude Include="..\src\Includes.h" />
     <ClInclude Include="..\src\WanderingStarApp.h" />
   </ItemGroup>
